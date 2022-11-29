@@ -1,0 +1,11 @@
+//schema for a note:
+{
+  "id":,
+  "time_created":"",
+  "front_data":,
+  "back_data":,
+  "tags":,
+  "scheduling_info":,
+    "next-revise-time"
+
+}
